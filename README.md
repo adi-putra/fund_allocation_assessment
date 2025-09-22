@@ -74,5 +74,3 @@ All tests should pass if the allocation logic works correctly.
 * Allocation amounts are rounded to 2 decimals
 * Proportional split logic is included as comments for future use
 * Demo block in `fund_allocation.py` only runs when executing the file directly
-
-```
