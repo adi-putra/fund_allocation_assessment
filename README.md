@@ -76,8 +76,3 @@ All tests should pass if the allocation logic works correctly.
 * Demo block in `fund_allocation.py` only runs when executing the file directly
 
 ```
-
-This format:  
-- Uses **plain headings** and minimal bullets  
-- Shows **commands and outputs** clearly  
-- Reads top to bottom without extra sections
